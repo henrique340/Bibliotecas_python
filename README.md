@@ -1,4 +1,4 @@
-# Java
+# Bibliotecas do Python
 
 ## :memo: Descrição
 O repositório Biblioteca_python foi criado para eu postar a minha evolução na linguagem por meio da exploração de bibliotecas.
